@@ -3,4 +3,5 @@ pandas
 plotly
 scikit-learn
 requests
-sqlite3
+
+
